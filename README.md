@@ -1,2 +1,2 @@
 # Historical-trends-in-movies-according-to-IMDb
-Historical trends analyzed by machine learning algorithms
+This repository stores a report that analyzes the features of movies(revenue, Oscars' Best Picture, and rating distributions) using machine learning algorithms.
